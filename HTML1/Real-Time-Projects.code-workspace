@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Real-Time-Projects-4",
+			"path": "../../Real-Time-Projects-4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Real-Time-Projects",
+		"git.ignoreLimitWarning": true
+	}
+}
